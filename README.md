@@ -61,8 +61,12 @@ PROGRAM
 
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-Developed by: RegisterNumber:
+
+Developed by: R. KEERTHIKA
+
+RegisterNumber: 25017601
 Logic symbol & Truthtable
+
 RTL realization Output:
 RTL
 
